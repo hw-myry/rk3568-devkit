@@ -2,25 +2,6 @@
 
 ## Overview
 
-<p align="center">
-  <img src="03.fotos/font.png" width="80%">
-</p>
-
-<p align="center">
-  <img src="03.fotos/l1.png" width="80%">
-</p>
-
-<p align="center">
-  <img src="03.fotos/l2.png" width="80%">
-</p>
-
-<p align="center">
-  <img src="03.fotos/l3.png" width="80%">
-</p>
-
-
-## RK3568 Board
-
 **SoC**: RK3568  
 **RAM**: LPDDR4  
 **Storage**: eMMC  
@@ -41,3 +22,19 @@ UART
 
 **Audio**:  
 MIC / SPK / Headphone
+
+<p align="center">
+  <img src="03.fotos/font.png" width="80%">
+</p>
+
+<p align="center">
+  <img src="03.fotos/l1.png" width="80%">
+</p>
+
+<p align="center">
+  <img src="03.fotos/l2.png" width="80%">
+</p>
+
+<p align="center">
+  <img src="03.fotos/l3.png" width="80%">
+</p>
