@@ -1,0 +1,88 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[12/22/20]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\rk_nvr_demo_rk3568_ddr4p216sd4_v12_20201221.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         ".\rk_nvr_demo_rk3568_ddr4p216sd4_v12_20201221.dsn")
+      (Path "Design Resources"
+         ".\rk_nvr_demo_rk3568_ddr4p216sd4_v12_20201221.dsn"
+         "RK_NVR_DEMO_RK3568_DDR4P216SD4")
+      (Select "Design Resources"
+         ".\rk_nvr_demo_rk3568_ddr4p216sd4_v12_20201221.dsn"
+         "RK_NVR_DEMO_RK3568_DDR4P216SD4" "19.RK3568_Audio Interface"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 403 0 594"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 756 28 640")
+        (Scroll "0 50")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\GITHUB\RK3568-DEVKIT\02.DOCS\04_PRODUCT LINE BRANCH(NVR)\03_DEMO REFERENCE DESIGN\SCH\RK_NVR_DEMO_RK3568_DDR4P216SD4_V12_20201221.DSN")
+      (Schematic "RK_NVR_DEMO_RK3568_DDR4P216SD4")
+      (Page "03.Block Diagram"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 756 28 640")
+        (Scroll "185 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\GITHUB\RK3568-DEVKIT\02.DOCS\04_PRODUCT LINE BRANCH(NVR)\03_DEMO REFERENCE DESIGN\SCH\RK_NVR_DEMO_RK3568_DDR4P216SD4_V12_20201221.DSN")
+      (Schematic "RK_NVR_DEMO_RK3568_DDR4P216SD4")
+      (Page "10.RK3568_Power/GND"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 756 28 640")
+        (Scroll "292 356")
+        (Zoom "400")
+        (Occurrence "/"))
+      (Path
+         "C:\GITHUB\RK3568-DEVKIT\02.DOCS\04_PRODUCT LINE BRANCH(NVR)\03_DEMO REFERENCE DESIGN\SCH\RK_NVR_DEMO_RK3568_DDR4P216SD4_V12_20201221.DSN")
+      (Schematic "RK_NVR_DEMO_RK3568_DDR4P216SD4")
+      (Page "11.RK3568_DDR PHY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 756 28 640")
+        (Scroll "226 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\GITHUB\RK3568-DEVKIT\02.DOCS\04_PRODUCT LINE BRANCH(NVR)\03_DEMO REFERENCE DESIGN\SCH\RK_NVR_DEMO_RK3568_DDR4P216SD4_V12_20201221.DSN")
+      (Schematic "RK_NVR_DEMO_RK3568_DDR4P216SD4")
+      (Page "15.RK3568_SARADC/GPIO"))))

@@ -24,6 +24,14 @@ UART
 MIC / SPK / Headphone
 
 <p align="center">
+  <img src="03.fotos/solder1.jpg" width="80%">
+</p>
+
+<p align="center">
+  <img src="03.fotos/solder2.jpg" width="80%">
+</p>
+
+<p align="center">
   <img src="03.fotos/font.png" width="80%">
 </p>
 

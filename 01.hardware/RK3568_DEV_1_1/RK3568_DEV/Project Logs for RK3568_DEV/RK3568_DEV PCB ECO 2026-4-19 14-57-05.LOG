@@ -1,0 +1,1026 @@
+Added Component: Designator=D1201(ESD0402)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filename"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WillSemi(韦尔半导体)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "option"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "ESD_TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Added Component: Designator=D1500(ESD0402)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filename"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WillSemi(韦尔半导体)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "option"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "ESD_TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "ESD5451N"; VariantName = "[No Variations]"
+Added Component: Designator=H9900(HOLE_C3R20_C6R00)
+Added Component: Designator=H9901(HOLE_C3R20_C6R00)
+Added Component: Designator=H9902(HOLE_C3R20_C6R00)
+Added Component: Designator=H9903(HOLE_C3R20_C6R00)
+Added Component: Designator=H9904(HOLE_C3R20_C6R00)
+Added Component: Designator=H9905(HOLE_C3R20_C6R00)
+Added Component: Designator=H9906(HOLE_C3R20_C6R00)
+Added Component: Designator=H9907(HOLE_C3R20_C6R00)
+Added Component: Designator=J9900(RADIATOR_38RX38RX10R)
+Added Component: Designator=M9900(MARK)
+Added Component: Designator=M9901(MARK)
+Added Component: Designator=M9902(MARK)
+Added Component: Designator=M9903(MARK)
+Added Component: Designator=M9904(MARK)
+Added Component: Designator=M9905(MARK)
+Added Component: Designator=SW1201(SW2_6R00X3R70X2R50)
+Add component (AddParameter): Name = "Created by"; Value = "YWQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "褀华电子"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TS-1125HS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Option"; Value = "RESET_Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TS-1125HS"; VariantName = "[No Variations]"
+Added Component: Designator=SW1500(SW2_6R00X3R70X2R50)
+Add component (AddParameter): Name = "Created by"; Value = "YWQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "褀华电子"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TS-1125HS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Option"; Value = "RECOVERY_Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TS-1125HS"; VariantName = "[No Variations]"
+Added Component: Designator=TP1201(TP_0R70)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TESTPOINT_0R7"; VariantName = "[No Variations]"
+Added Component: Designator=TP1301(TP_0R70)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TESTPOINT_0R7"; VariantName = "[No Variations]"
+Added Component: Designator=TP1302(TP_0R70)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TESTPOINT_0R7"; VariantName = "[No Variations]"
+Added Component: Designator=TP1303(TP_0R70)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TESTPOINT_0R7"; VariantName = "[No Variations]"
+Added Component: Designator=TP1304(TP_0R70)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TESTPOINT_0R7"; VariantName = "[No Variations]"
+Added Component: Designator=TP1305(TP_0R70)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TESTPOINT_0R7"; VariantName = "[No Variations]"
+Added Component: Designator=TP1306(TP_0R70)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TESTPOINT_0R7"; VariantName = "[No Variations]"
+Added Component: Designator=TP1601(TP_0R70)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TESTPOINT_0R7"; VariantName = "[No Variations]"
+Added Component: Designator=TP1602(TP_0R70)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TESTPOINT_0R7"; VariantName = "[No Variations]"
+Added Component: Designator=TP1603(TP_0R70)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "TESTPOINT_0R7"; VariantName = "[No Variations]"
+Added Component: Designator=U1000(BGA636_19R00X19R00X1R20)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rockchip (瑞芯微)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "RK3568"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "SOC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "RK3568"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPLIT_INST"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SWAP_INFO"; Value = "(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14+S15+S16+S17+S18+S19+S20+S21+S22+S23)"; VariantName = "[No Variations]"
+Added Component: Designator=U1201(SOT_23)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Chipower（芯力微）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "CE8809C263MA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Voltage_Detectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "CE8809C263MA"; VariantName = "[No Variations]"
+Added Component: Designator=U3300(FBGA96_14R00X11R00X1R20)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "DDR4_16bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "DRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "DDR4_16bit"; VariantName = "[No Variations]"
+Added Component: Designator=U3301(FBGA96_14R00X11R00X1R20)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "DDR4_16bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "DRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "DDR4_16bit"; VariantName = "[No Variations]"
+Added Component: Designator=U3302(SOT_23_5)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Powtech（华润矽威）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "PT5108E23E-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "option"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "PT5108E23E-25"; VariantName = "[No Variations]"
+Added Component: Designator=U4000(BGA153_13RX11R5X0R9_2L)
+Add component (AddParameter): Name = "Created by"; Value = "YWQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "option"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "NAND_FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "EMMC_B153_2L"; VariantName = "[No Variations]"
+Added Component: Designator=Y1200(CRY4_3R20X2R50X0R80)
+Add component (AddParameter): Name = "Created by"; Value = "JJJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hosonic(鸿星电子)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "E3SB24.0000F08E11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "CRYSTAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "E3SB24.0000F08E11"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1201_1 Pin=D1201-1
+Added Pin To Net: NetName=GND Pin=D1201-2
+Added Pin To Net: NetName=NetD1500_1 Pin=D1500-1
+Added Pin To Net: NetName=GND Pin=D1500-2
+Added Pin To Net: NetName=GND Pin=H9900-1
+Added Pin To Net: NetName=GND Pin=H9901-1
+Added Pin To Net: NetName=GND Pin=H9902-1
+Added Pin To Net: NetName=GND Pin=H9903-1
+Added Pin To Net: NetName=GND Pin=H9904-1
+Added Pin To Net: NetName=GND Pin=H9905-1
+Added Pin To Net: NetName=GND Pin=H9906-1
+Added Pin To Net: NetName=GND Pin=H9907-1
+Added Pin To Net: NetName=GND Pin=J9900-1
+Added Pin To Net: NetName=GND Pin=J9900-2
+Added Pin To Net: NetName=NetD1201_1 Pin=SW1201-1
+Added Pin To Net: NetName=GND Pin=SW1201-2
+Added Pin To Net: NetName=NetD1500_1 Pin=SW1500-1
+Added Pin To Net: NetName=GND Pin=SW1500-2
+Added Pin To Net: NetName=NetTP1201_1 Pin=TP1201-1
+Added Pin To Net: NetName=eMMC_D0 Pin=TP1301-1
+Added Pin To Net: NetName=GND Pin=TP1302-1
+Added Pin To Net: NetName=FSPI_CLK Pin=TP1303-1
+Added Pin To Net: NetName=GND Pin=TP1304-1
+Added Pin To Net: NetName=ARMJTAG_TCK Pin=TP1305-1
+Added Pin To Net: NetName=ARMJTAG_TMS Pin=TP1306-1
+Added Pin To Net: NetName=NetTP1601_1 Pin=TP1601-1
+Added Pin To Net: NetName=NetTP1602_1 Pin=TP1602-1
+Added Pin To Net: NetName=NetTP1603_1 Pin=TP1603-1
+Added Pin To Net: NetName=GND Pin=U1000-A1
+Added Pin To Net: NetName=DDR4_CS0n Pin=U1000-A2
+Added Pin To Net: NetName=GND Pin=U1000-A3
+Added Pin To Net: NetName=DDR4_CLKN Pin=U1000-A4
+Added Pin To Net: NetName=DDR4_A9 Pin=U1000-A5
+Added Pin To Net: NetName=GND Pin=U1000-A6
+Added Pin To Net: NetName=DDR4_A6 Pin=U1000-A7
+Added Pin To Net: NetName=DDR4_A7 Pin=U1000-A8
+Added Pin To Net: NetName=DDR4_DQU5_B Pin=U1000-A9
+Added Pin To Net: NetName=GND Pin=U1000-A10
+Added Pin To Net: NetName=DDR4_DQSU_P_B Pin=U1000-A11
+Added Pin To Net: NetName=DDR4_DQU0_B Pin=U1000-A12
+Added Pin To Net: NetName=DDR4_DQL5_B Pin=U1000-A13
+Added Pin To Net: NetName=GND Pin=U1000-A14
+Added Pin To Net: NetName=DDR4_DQSL_N_B Pin=U1000-A15
+Added Pin To Net: NetName=DDR4_DQL0_B Pin=U1000-A16
+Added Pin To Net: NetName=DDR4_DQL4_B Pin=U1000-A17
+Added Pin To Net: NetName=GND Pin=U1000-A18
+Added Pin To Net: NetName=NetR1901_1 Pin=U1000-A19
+Added Pin To Net: NetName=NetR1904_1 Pin=U1000-A20
+Added Pin To Net: NetName=RK616_RST_GPIO1_B2 Pin=U1000-A21
+Added Pin To Net: NetName=FSPI_CLK_SOC Pin=U1000-A22
+Added Pin To Net: NetName=eMMC_CLKOUT_SOC Pin=U1000-A23
+Added Pin To Net: NetName=eMMC_D0 Pin=U1000-A24
+Added Pin To Net: NetName=eMMC_D4 Pin=U1000-A25
+Added Pin To Net: NetName=eMMC_DATA_STROBE_SOC Pin=U1000-A26
+Added Pin To Net: NetName=FSPI_D3 Pin=U1000-A27
+Added Pin To Net: NetName=GND Pin=U1000-A28
+Added Pin To Net: NetName=NetTP1603_1 Pin=U1000-AA1
+Added Pin To Net: NetName=GMAC1_RXD2_M1 Pin=U1000-AA2
+Added Pin To Net: NetName=GPIO4_A0_d Pin=U1000-AA3
+Added Pin To Net: NetName=GND Pin=U1000-AA4
+Added Pin To Net: NetName=LCDC_VSYNC Pin=U1000-AA7
+Added Pin To Net: NetName=GND Pin=U1000-AA9
+Added Pin To Net: NetName=PWM15_IR_M1 Pin=U1000-AA11
+Added Pin To Net: NetName=GND Pin=U1000-AA12
+Added Pin To Net: NetName=GND Pin=U1000-AA14
+Added Pin To Net: NetName=GND Pin=U1000-AA15
+Added Pin To Net: NetName=GND Pin=U1000-AA17
+Added Pin To Net: NetName=HDMI_TX_REXT Pin=U1000-AA18
+Added Pin To Net: NetName=TP_RST_L_GPIO0_B6 Pin=U1000-AA20
+Added Pin To Net: NetName=GND Pin=U1000-AA23
+Added Pin To Net: NetName=GND Pin=U1000-AA24
+Added Pin To Net: NetName=PCIE30_REFCLKN_IN Pin=U1000-AA25
+Added Pin To Net: NetName=GND Pin=U1000-AA26
+Added Pin To Net: NetName=PCIE30_TX0N Pin=U1000-AA27
+Added Pin To Net: NetName=PCIE30_TX0P Pin=U1000-AA28
+Added Pin To Net: NetName=NetTP1601_1 Pin=U1000-AB1
+Added Pin To Net: NetName=GND Pin=U1000-AB2
+Added Pin To Net: NetName=GND Pin=U1000-AB6
+Added Pin To Net: NetName=LCDC_D8 Pin=U1000-AB8
+Added Pin To Net: NetName=SATAPM_RSTn_GPIO4_D2 Pin=U1000-AB9
+Added Pin To Net: NetName=GND Pin=U1000-AB11
+Added Pin To Net: NetName=GND Pin=U1000-AB12
+Added Pin To Net: NetName=GND Pin=U1000-AB14
+Added Pin To Net: NetName=GND Pin=U1000-AB15
+Added Pin To Net: NetName=GND Pin=U1000-AB17
+Added Pin To Net: NetName=HDMI_TX_HPDIN Pin=U1000-AB18
+Added Pin To Net: NetName=I2C1_SDA Pin=U1000-AB20
+Added Pin To Net: NetName=I2C0_SDA_PMIC Pin=U1000-AB21
+Added Pin To Net: NetName=PCIE_PWREN_H_GPIO0_D4 Pin=U1000-AB23
+Added Pin To Net: NetName=GND Pin=U1000-AB24
+Added Pin To Net: NetName=PCIE30_TX1N Pin=U1000-AB27
+Added Pin To Net: NetName=PCIE30_TX1P Pin=U1000-AB28
+Added Pin To Net: NetName=NetTP1602_1 Pin=U1000-AC1
+Added Pin To Net: NetName=NetR1803_1 Pin=U1000-AC2
+Added Pin To Net: NetName=LCD0_BL_PWM14_M0 Pin=U1000-AC3
+Added Pin To Net: NetName=LCDC_DEN Pin=U1000-AC4
+Added Pin To Net: NetName=LCDC_D3 Pin=U1000-AC7
+Added Pin To Net: NetName=LCDC_D2 Pin=U1000-AC8
+Added Pin To Net: NetName=GND Pin=U1000-AC9
+Added Pin To Net: NetName=GND Pin=U1000-AC11
+Added Pin To Net: NetName=GND Pin=U1000-AC12
+Added Pin To Net: NetName=GND Pin=U1000-AC15
+Added Pin To Net: NetName=GND Pin=U1000-AC18
+Added Pin To Net: NetName=UART2_RX_M0_DEBUG Pin=U1000-AC20
+Added Pin To Net: NetName=PCIE30X2_WAKEn_M0 Pin=U1000-AC21
+Added Pin To Net: NetName=TP_INT_L_GPIO0_B5 Pin=U1000-AC22
+Added Pin To Net: NetName=BEEP_EN_H_GPIO0_D6 Pin=U1000-AC24
+Added Pin To Net: NetName=GND Pin=U1000-AC25
+Added Pin To Net: NetName=GND Pin=U1000-AC26
+Added Pin To Net: NetName=PCIE30_RX0N Pin=U1000-AC27
+Added Pin To Net: NetName=PCIE30_RX0P Pin=U1000-AC28
+Added Pin To Net: NetName=LCDC_HSYNC Pin=U1000-AD1
+Added Pin To Net: NetName=LCDC_D23 Pin=U1000-AD2
+Added Pin To Net: NetName=GND Pin=U1000-AD3
+Added Pin To Net: NetName=LCDC_D22 Pin=U1000-AD4
+Added Pin To Net: NetName=LCDC_D6 Pin=U1000-AD6
+Added Pin To Net: NetName=LCDC_D1 Pin=U1000-AD7
+Added Pin To Net: NetName=HDD_LED_EN_H_GPIO4_C5 Pin=U1000-AD8
+Added Pin To Net: NetName=PCIE30X2_PERSTn_M0 Pin=U1000-AD20
+Added Pin To Net: NetName=Power_LED_EN_H_GPIO0_C4 Pin=U1000-AD21
+Added Pin To Net: NetName=PWM1_M0_LOGIC Pin=U1000-AD22
+Added Pin To Net: NetName=RK616_HDMI_INT_GPIO0_B0 Pin=U1000-AD23
+Added Pin To Net: NetName=GND Pin=U1000-AD26
+Added Pin To Net: NetName=PCIE30_RX1N Pin=U1000-AD27
+Added Pin To Net: NetName=PCIE30_RX1P Pin=U1000-AD28
+Added Pin To Net: NetName=LCDC_D19 Pin=U1000-AE1
+Added Pin To Net: NetName=LCDC_D20 Pin=U1000-AE2
+Added Pin To Net: NetName=LCDC_D21 Pin=U1000-AE3
+Added Pin To Net: NetName=LCDC_D9 Pin=U1000-AE5
+Added Pin To Net: NetName=GND Pin=U1000-AE6
+Added Pin To Net: NetName=Ethernet_LED_EN_H_GPIO4_C6 Pin=U1000-AE8
+Added Pin To Net: NetName=GND Pin=U1000-AE14
+Added Pin To Net: NetName=GND Pin=U1000-AE17
+Added Pin To Net: NetName=GND Pin=U1000-AE20
+Added Pin To Net: NetName=GND Pin=U1000-AE21
+Added Pin To Net: NetName=PCIE30X1_PERSTn_M0 Pin=U1000-AE23
+Added Pin To Net: NetName=PCIE30X2_CLKREQn_M0 Pin=U1000-AE24
+Added Pin To Net: NetName=RTCIC_INT_L_GPIO0_D3 Pin=U1000-AE26
+Added Pin To Net: NetName=GND Pin=U1000-AE27
+Added Pin To Net: NetName=GND Pin=U1000-AE28
+Added Pin To Net: NetName=LCDC_D18 Pin=U1000-AF1
+Added Pin To Net: NetName=LCDC_D17 Pin=U1000-AF2
+Added Pin To Net: NetName=GND Pin=U1000-AF3
+Added Pin To Net: NetName=LCDC_D11 Pin=U1000-AF4
+Added Pin To Net: NetName=LCDC_D4 Pin=U1000-AF5
+Added Pin To Net: NetName=LCDC_D5 Pin=U1000-AF6
+Added Pin To Net: NetName=NetR1502_1 Pin=U1000-AF8
+Added Pin To Net: NetName=GND Pin=U1000-AF9
+Added Pin To Net: NetName=GND Pin=U1000-AF11
+Added Pin To Net: NetName=GND Pin=U1000-AF12
+Added Pin To Net: NetName=GND Pin=U1000-AF14
+Added Pin To Net: NetName=GND Pin=U1000-AF15
+Added Pin To Net: NetName=GND Pin=U1000-AF17
+Added Pin To Net: NetName=GND Pin=U1000-AF18
+Added Pin To Net: NetName=GND Pin=U1000-AF20
+Added Pin To Net: NetName=GND Pin=U1000-AF21
+Added Pin To Net: NetName=PWM2_M0_NPU Pin=U1000-AF23
+Added Pin To Net: NetName=I2C0_SCL_PMIC Pin=U1000-AF24
+Added Pin To Net: NetName=USB_HOST_PWREN_H_GPIO0_A5 Pin=U1000-AF25
+Added Pin To Net: NetName=GND Pin=U1000-AF26
+Added Pin To Net: NetName=XOUT24M Pin=U1000-AF27
+Added Pin To Net: NetName=XIN24M Pin=U1000-AF28
+Added Pin To Net: NetName=LCDC_D16 Pin=U1000-AG1
+Added Pin To Net: NetName=LCDC_D15 Pin=U1000-AG2
+Added Pin To Net: NetName=LCDC_D13 Pin=U1000-AG3
+Added Pin To Net: NetName=LCDC_D10 Pin=U1000-AG4
+Added Pin To Net: NetName=GND Pin=U1000-AG5
+Added Pin To Net: NetName=LCDC_D0 Pin=U1000-AG6
+Added Pin To Net: NetName=HDMITX_SDA Pin=U1000-AG7
+Added Pin To Net: NetName=HDMITX_SCL Pin=U1000-AG8
+Added Pin To Net: NetName=MIPI_DSI_TX0_D3N/LVDS_TX0_D3N Pin=U1000-AG13
+Added Pin To Net: NetName=MIPI_DSI_TX0_D2N/LVDS_TX0_D2N Pin=U1000-AG14
+Added Pin To Net: NetName=MIPI_DSI_TX0_CLKN/LVDS_TX0_CLKN Pin=U1000-AG15
+Added Pin To Net: NetName=MIPI_DSI_TX0_D1N/LVDS_TX0_D1N Pin=U1000-AG16
+Added Pin To Net: NetName=MIPI_DSI_TX0_D0N/LVDS_TX0_D0N Pin=U1000-AG17
+Added Pin To Net: NetName=GND Pin=U1000-AG18
+Added Pin To Net: NetName=HDMI_TXCLKN Pin=U1000-AG19
+Added Pin To Net: NetName=HDMI_TX0P Pin=U1000-AG20
+Added Pin To Net: NetName=HDMI_TX1P Pin=U1000-AG21
+Added Pin To Net: NetName=HDMI_TX2P Pin=U1000-AG22
+Added Pin To Net: NetName=PCIE30X1_WAKEn_M0 Pin=U1000-AG23
+Added Pin To Net: NetName=I2C1_SCL Pin=U1000-AG24
+Added Pin To Net: NetName=FLASH_VOL_SEL Pin=U1000-AG25
+Added Pin To Net: NetName=TSADC_SHUT_M0 Pin=U1000-AG26
+Added Pin To Net: NetName=NetTP1201_1 Pin=U1000-AG27
+Added Pin To Net: NetName=PMIC_SLEEP_H Pin=U1000-AG28
+Added Pin To Net: NetName=GND Pin=U1000-AH1
+Added Pin To Net: NetName=LCDC_D14 Pin=U1000-AH2
+Added Pin To Net: NetName=LCDC_D12 Pin=U1000-AH3
+Added Pin To Net: NetName=LCDC_CLK_SOC Pin=U1000-AH4
+Added Pin To Net: NetName=LCDC_D7 Pin=U1000-AH5
+Added Pin To Net: NetName=HDMITX_CEC_M0 Pin=U1000-AH6
+Added Pin To Net: NetName=EDP_HPDIN_M0 Pin=U1000-AH7
+Added Pin To Net: NetName=GND Pin=U1000-AH8
+Added Pin To Net: NetName=MIPI_DSI_TX0_D3P/LVDS_TX0_D3P Pin=U1000-AH13
+Added Pin To Net: NetName=MIPI_DSI_TX0_D2P/LVDS_TX0_D2P Pin=U1000-AH14
+Added Pin To Net: NetName=MIPI_DSI_TX0_CLKP/LVDS_TX0_CLKP Pin=U1000-AH15
+Added Pin To Net: NetName=MIPI_DSI_TX0_D1P/LVDS_TX0_D1P Pin=U1000-AH16
+Added Pin To Net: NetName=MIPI_DSI_TX0_D0P/LVDS_TX0_D0P Pin=U1000-AH17
+Added Pin To Net: NetName=GND Pin=U1000-AH18
+Added Pin To Net: NetName=HDMI_TXCLKP Pin=U1000-AH19
+Added Pin To Net: NetName=HDMI_TX0N Pin=U1000-AH20
+Added Pin To Net: NetName=HDMI_TX1N Pin=U1000-AH21
+Added Pin To Net: NetName=HDMI_TX2N Pin=U1000-AH22
+Added Pin To Net: NetName=GND Pin=U1000-AH23
+Added Pin To Net: NetName=UART2_TX_M0_DEBUG Pin=U1000-AH24
+Added Pin To Net: NetName=LCD0_PWREN_H_GPIO0_C7 Pin=U1000-AH25
+Added Pin To Net: NetName=RESETn Pin=U1000-AH27
+Added Pin To Net: NetName=GND Pin=U1000-AH28
+Added Pin To Net: NetName=DDR4_A2 Pin=U1000-B1
+Added Pin To Net: NetName=DDR4_CKE Pin=U1000-B3
+Added Pin To Net: NetName=DDR4_CLKP Pin=U1000-B4
+Added Pin To Net: NetName=GND Pin=U1000-B5
+Added Pin To Net: NetName=DDR4_A0 Pin=U1000-B6
+Added Pin To Net: NetName=DDR4_A5 Pin=U1000-B7
+Added Pin To Net: NetName=DDR4_A13 Pin=U1000-B8
+Added Pin To Net: NetName=GND Pin=U1000-B9
+Added Pin To Net: NetName=DDR4_DQU7_B Pin=U1000-B10
+Added Pin To Net: NetName=DDR4_DQSU_N_B Pin=U1000-B11
+Added Pin To Net: NetName=GND Pin=U1000-B12
+Added Pin To Net: NetName=DDR4_DQL7_B Pin=U1000-B13
+Added Pin To Net: NetName=DDR4_DQL3_B Pin=U1000-B14
+Added Pin To Net: NetName=DDR4_DQSL_P_B Pin=U1000-B15
+Added Pin To Net: NetName=GND Pin=U1000-B16
+Added Pin To Net: NetName=DDR4_DQL2_B Pin=U1000-B17
+Added Pin To Net: NetName=DDR4_DQL6_B Pin=U1000-B18
+Added Pin To Net: NetName=NetR1902_1 Pin=U1000-B19
+Added Pin To Net: NetName=I2S1_SDO0_M0 Pin=U1000-B20
+Added Pin To Net: NetName=I2S1_SDI0_M0 Pin=U1000-B21
+Added Pin To Net: NetName=eMMC_CMD Pin=U1000-B22
+Added Pin To Net: NetName=GND Pin=U1000-B23
+Added Pin To Net: NetName=eMMC_D2 Pin=U1000-B24
+Added Pin To Net: NetName=eMMC_D7 Pin=U1000-B25
+Added Pin To Net: NetName=GND Pin=U1000-B26
+Added Pin To Net: NetName=SARADC_VIN0_KEY/RECOVERY Pin=U1000-B27
+Added Pin To Net: NetName=GMAC0_RXCLK Pin=U1000-B28
+Added Pin To Net: NetName=DDR4_A8 Pin=U1000-C1
+Added Pin To Net: NetName=DDR4_A11 Pin=U1000-C2
+Added Pin To Net: NetName=GND Pin=U1000-C3
+Added Pin To Net: NetName=DDR4_A12 Pin=U1000-C4
+Added Pin To Net: NetName=DDR4_A14_WEn Pin=U1000-C5
+Added Pin To Net: NetName=GND Pin=U1000-C6
+Added Pin To Net: NetName=GND Pin=U1000-C8
+Added Pin To Net: NetName=GND Pin=U1000-C9
+Added Pin To Net: NetName=GND Pin=U1000-C11
+Added Pin To Net: NetName=GND Pin=U1000-C12
+Added Pin To Net: NetName=GND Pin=U1000-C14
+Added Pin To Net: NetName=GND Pin=U1000-C15
+Added Pin To Net: NetName=GND Pin=U1000-C17
+Added Pin To Net: NetName=GND Pin=U1000-C18
+Added Pin To Net: NetName=UART4_TX_M0 Pin=U1000-C20
+Added Pin To Net: NetName=eMMC_D1 Pin=U1000-C21
+Added Pin To Net: NetName=FSPI_CS0n Pin=U1000-C23
+Added Pin To Net: NetName=FSPI_D0 Pin=U1000-C24
+Added Pin To Net: NetName=GND Pin=U1000-C25
+Added Pin To Net: NetName=GPIO2_A6 Pin=U1000-C27
+Added Pin To Net: NetName=GPIO2_A7 Pin=U1000-C28
+Added Pin To Net: NetName=DDR4_DQL6_A Pin=U1000-D1
+Added Pin To Net: NetName=GND Pin=U1000-D2
+Added Pin To Net: NetName=GND Pin=U1000-D3
+Added Pin To Net: NetName=DDR4_A16_RASn Pin=U1000-D5
+Added Pin To Net: NetName=DDR4_A10 Pin=U1000-D6
+Added Pin To Net: NetName=DDR4_A4 Pin=U1000-D9
+Added Pin To Net: NetName=GND Pin=U1000-D11
+Added Pin To Net: NetName=DDR4_DQU3_B Pin=U1000-D12
+Added Pin To Net: NetName=DDR4_DMU_B Pin=U1000-D14
+Added Pin To Net: NetName=DDR4_DQU6_B Pin=U1000-D15
+Added Pin To Net: NetName=DDR4_DQL1_B Pin=U1000-D17
+Added Pin To Net: NetName=I2C3_SDA_M0 Pin=U1000-D18
+Added Pin To Net: NetName=GMAC0_RSTn_GPIO1_B0 Pin=U1000-D20
+Added Pin To Net: NetName=eMMC_D3 Pin=U1000-D21
+Added Pin To Net: NetName=FSPI_D1 Pin=U1000-D23
+Added Pin To Net: NetName=GPIO2_B0 Pin=U1000-D27
+Added Pin To Net: NetName=GND Pin=U1000-D28
+Added Pin To Net: NetName=DDR4_DQL2_A Pin=U1000-E1
+Added Pin To Net: NetName=DDR4_DQL4_A Pin=U1000-E2
+Added Pin To Net: NetName=GND Pin=U1000-E3
+Added Pin To Net: NetName=DDR4_A15_CASn Pin=U1000-E4
+Added Pin To Net: NetName=DDR4_ACTn Pin=U1000-E6
+Added Pin To Net: NetName=GND Pin=U1000-E7
+Added Pin To Net: NetName=DDR4_ODT0 Pin=U1000-E8
+Added Pin To Net: NetName=DDR4_BA1 Pin=U1000-E9
+Added Pin To Net: NetName=DDR4_BA0 Pin=U1000-E11
+Added Pin To Net: NetName=DDR4_DQU1_B Pin=U1000-E12
+Added Pin To Net: NetName=DDR4_DQU2_B Pin=U1000-E14
+Added Pin To Net: NetName=DDR4_DQU4_B Pin=U1000-E15
+Added Pin To Net: NetName=DDR4_DML_B Pin=U1000-E17
+Added Pin To Net: NetName=I2C3_SCL_M0 Pin=U1000-E18
+Added Pin To Net: NetName=GMAC1_RSTn_GPIO1_B1 Pin=U1000-E20
+Added Pin To Net: NetName=eMMC_D5 Pin=U1000-E21
+Added Pin To Net: NetName=eMMC_D6 Pin=U1000-E22
+Added Pin To Net: NetName=GMAC0_RXD2 Pin=U1000-E27
+Added Pin To Net: NetName=GMAC0_RXD3 Pin=U1000-E28
+Added Pin To Net: NetName=GND Pin=U1000-F1
+Added Pin To Net: NetName=DDR4_DQL0_A Pin=U1000-F2
+Added Pin To Net: NetName=GND Pin=U1000-F3
+Added Pin To Net: NetName=DDR4_A3 Pin=U1000-F4
+Added Pin To Net: NetName=DDR4_A1 Pin=U1000-F5
+Added Pin To Net: NetName=DDR4_BG1 Pin=U1000-F7
+Added Pin To Net: NetName=DDR4_BG0 Pin=U1000-F8
+Added Pin To Net: NetName=GND Pin=U1000-F9
+Added Pin To Net: NetName=DDR4_RESETn Pin=U1000-F11
+Added Pin To Net: NetName=GND Pin=U1000-F12
+Added Pin To Net: NetName=GND Pin=U1000-F14
+Added Pin To Net: NetName=GND Pin=U1000-F15
+Added Pin To Net: NetName=GND Pin=U1000-F17
+Added Pin To Net: NetName=UART4_RX_M0 Pin=U1000-F18
+Added Pin To Net: NetName=eMMC_RSTn/FSPI_D2 Pin=U1000-F20
+Added Pin To Net: NetName=GMAC0_RXDV_CRS Pin=U1000-F24
+Added Pin To Net: NetName=GPIO2_C2 Pin=U1000-F25
+Added Pin To Net: NetName=GMAC0_RXD0 Pin=U1000-F27
+Added Pin To Net: NetName=GPIO2_B3 Pin=U1000-F28
+Added Pin To Net: NetName=DDR4_DQSL_P_A Pin=U1000-G1
+Added Pin To Net: NetName=DDR4_DQSL_N_A Pin=U1000-G2
+Added Pin To Net: NetName=GND Pin=U1000-G5
+Added Pin To Net: NetName=GND Pin=U1000-G6
+Added Pin To Net: NetName=GND Pin=U1000-G8
+Added Pin To Net: NetName=GND Pin=U1000-G9
+Added Pin To Net: NetName=GND Pin=U1000-G11
+Added Pin To Net: NetName=GND Pin=U1000-G12
+Added Pin To Net: NetName=GND Pin=U1000-G14
+Added Pin To Net: NetName=GND Pin=U1000-G15
+Added Pin To Net: NetName=GND Pin=U1000-G17
+Added Pin To Net: NetName=GND Pin=U1000-G18
+Added Pin To Net: NetName=GPIO2_C1 Pin=U1000-G23
+Added Pin To Net: NetName=GND Pin=U1000-G24
+Added Pin To Net: NetName=GPIO2_B4 Pin=U1000-G27
+Added Pin To Net: NetName=GPIO2_B5 Pin=U1000-G28
+Added Pin To Net: NetName=DDR4_DQL3_A Pin=U1000-H1
+Added Pin To Net: NetName=GND Pin=U1000-H2
+Added Pin To Net: NetName=GND Pin=U1000-H3
+Added Pin To Net: NetName=DDR4_DQL1_A Pin=U1000-H4
+Added Pin To Net: NetName=DDR4_DML_A Pin=U1000-H5
+Added Pin To Net: NetName=GND Pin=U1000-H6
+Added Pin To Net: NetName=DDR_RZQ Pin=U1000-H7
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-H9
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-H11
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-H12
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-H14
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-H15
+Added Pin To Net: NetName=VCC_3V3 Pin=U1000-H17
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U1000-H18
+Added Pin To Net: NetName=VCC_1V8 Pin=U1000-H20
+Added Pin To Net: NetName=VCCA_1V8 Pin=U1000-H22
+Added Pin To Net: NetName=GMAC0_MDIO Pin=U1000-H23
+Added Pin To Net: NetName=GMAC0_MDC Pin=U1000-H24
+Added Pin To Net: NetName=GMAC0_RXD1 Pin=U1000-H25
+Added Pin To Net: NetName=ARMJTAG_TCK Pin=U1000-H26
+Added Pin To Net: NetName=UART5_RX_M0 Pin=U1000-H27
+Added Pin To Net: NetName=UART5_TX_M0 Pin=U1000-H28
+Added Pin To Net: NetName=DDR4_DQL7_A Pin=U1000-J1
+Added Pin To Net: NetName=DDR4_DQL5_A Pin=U1000-J2
+Added Pin To Net: NetName=GND Pin=U1000-J3
+Added Pin To Net: NetName=DDR4_DMU_A Pin=U1000-J4
+Added Pin To Net: NetName=GND Pin=U1000-J5
+Added Pin To Net: NetName=DDR4_DQU4_A Pin=U1000-J6
+Added Pin To Net: NetName=DDR4_DQU6_A Pin=U1000-J7
+Added Pin To Net: NetName=GND Pin=U1000-J8
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-J9
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-J11
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-J12
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-J14
+Added Pin To Net: NetName=VDD_CPU Pin=U1000-J15
+Added Pin To Net: NetName=GND Pin=U1000-J17
+Added Pin To Net: NetName=GND Pin=U1000-J18
+Added Pin To Net: NetName=GND Pin=U1000-J20
+Added Pin To Net: NetName=VCC_1V8 Pin=U1000-J21
+Added Pin To Net: NetName=GND Pin=U1000-J22
+Added Pin To Net: NetName=ARMJTAG_TMS Pin=U1000-J23
+Added Pin To Net: NetName=UART6_RX_M1 Pin=U1000-J24
+Added Pin To Net: NetName=UART6_TX_M1 Pin=U1000-J25
+Added Pin To Net: NetName=GND Pin=U1000-J26
+Added Pin To Net: NetName=GND Pin=U1000-J27
+Added Pin To Net: NetName=EDP_TXD0P Pin=U1000-J28
+Added Pin To Net: NetName=GND Pin=U1000-K1
+Added Pin To Net: NetName=DDR4_DQU2_A Pin=U1000-K2
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-K10
+Added Pin To Net: NetName=GND Pin=U1000-K11
+Added Pin To Net: NetName=GND Pin=U1000-K12
+Added Pin To Net: NetName=GND Pin=U1000-K13
+Added Pin To Net: NetName=GND Pin=U1000-K14
+Added Pin To Net: NetName=VDD_CPU Pin=U1000-K15
+Added Pin To Net: NetName=VDD_CPU Pin=U1000-K16
+Added Pin To Net: NetName=VDD_CPU Pin=U1000-K17
+Added Pin To Net: NetName=VDD_CPU Pin=U1000-K18
+Added Pin To Net: NetName=GND Pin=U1000-K19
+Added Pin To Net: NetName=EDP_TXD0N Pin=U1000-K27
+Added Pin To Net: NetName=EDP_TXD1P Pin=U1000-K28
+Added Pin To Net: NetName=DDR4_DQSU_N_A Pin=U1000-L1
+Added Pin To Net: NetName=DDR4_DQSU_P_A Pin=U1000-L2
+Added Pin To Net: NetName=GND Pin=U1000-L3
+Added Pin To Net: NetName=DDR4_DQU0_A Pin=U1000-L4
+Added Pin To Net: NetName=GND Pin=U1000-L5
+Added Pin To Net: NetName=DDR4_DQU5_A Pin=U1000-L6
+Added Pin To Net: NetName=DDR4_DQU7_A Pin=U1000-L7
+Added Pin To Net: NetName=GND Pin=U1000-L8
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-L9
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-L10
+Added Pin To Net: NetName=GND Pin=U1000-L11
+Added Pin To Net: NetName=VDD_LOGIC Pin=U1000-L12
+Added Pin To Net: NetName=GND Pin=U1000-L13
+Added Pin To Net: NetName=GND Pin=U1000-L14
+Added Pin To Net: NetName=VDD_CPU Pin=U1000-L15
+Added Pin To Net: NetName=VDD_CPU Pin=U1000-L16
+Added Pin To Net: NetName=VDD_CPU Pin=U1000-L17
+Added Pin To Net: NetName=VDD_CPU Pin=U1000-L18
+Added Pin To Net: NetName=GND Pin=U1000-L19
+Added Pin To Net: NetName=GND Pin=U1000-L20
+Added Pin To Net: NetName=GND Pin=U1000-L21
+Added Pin To Net: NetName=VCC_3V3 Pin=U1000-L22
+Added Pin To Net: NetName=GND Pin=U1000-L24
+Added Pin To Net: NetName=EDP_TX_AUXP Pin=U1000-L25
+Added Pin To Net: NetName=GND Pin=U1000-L26
+Added Pin To Net: NetName=EDP_TXD1N Pin=U1000-L27
+Added Pin To Net: NetName=DDR4_DQU3_A Pin=U1000-M1
+Added Pin To Net: NetName=GND Pin=U1000-M2
+Added Pin To Net: NetName=GND Pin=U1000-M3
+Added Pin To Net: NetName=GND Pin=U1000-M6
+Added Pin To Net: NetName=GND Pin=U1000-M8
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-M9
+Added Pin To Net: NetName=VCC_DDR Pin=U1000-M10
+Added Pin To Net: NetName=GND Pin=U1000-M11
+Added Pin To Net: NetName=VDD_LOGIC Pin=U1000-M12
+Added Pin To Net: NetName=GND Pin=U1000-M13
+Added Pin To Net: NetName=GND Pin=U1000-M14
+Added Pin To Net: NetName=VDD_CPU_COM Pin=U1000-M15
+Added Pin To Net: NetName=GND Pin=U1000-M16
+Added Pin To Net: NetName=VDD_CPU Pin=U1000-M17
+Added Pin To Net: NetName=GND Pin=U1000-M18
+Added Pin To Net: NetName=VDD_GPU/NPU Pin=U1000-M19
+Added Pin To Net: NetName=VDDA_0V9 Pin=U1000-M20
+Added Pin To Net: NetName=GND Pin=U1000-M21
+Added Pin To Net: NetName=VCCA_1V8 Pin=U1000-M22
+Added Pin To Net: NetName=VCC_3V3 Pin=U1000-M23
+Added Pin To Net: NetName=USB3_OTG0_VBUSDET Pin=U1000-M24
+Added Pin To Net: NetName=EDP_TX_AUXN Pin=U1000-M25
+Added Pin To Net: NetName=GND Pin=U1000-M26
+Added Pin To Net: NetName=GND Pin=U1000-N1
+Added Pin To Net: NetName=DDR4_DQU1_A Pin=U1000-N2
+Added Pin To Net: NetName=VCCA_1V8 Pin=U1000-N10
+Added Pin To Net: NetName=GND Pin=U1000-N11
+Added Pin To Net: NetName=GND Pin=U1000-N12
+Added Pin To Net: NetName=VDD_LOGIC Pin=U1000-N13
+Added Pin To Net: NetName=GND Pin=U1000-N14
+Added Pin To Net: NetName=GND Pin=U1000-N15
+Added Pin To Net: NetName=VDD_LOGIC Pin=U1000-N16
+Added Pin To Net: NetName=GND Pin=U1000-N17
+Added Pin To Net: NetName=GND Pin=U1000-N18
+Added Pin To Net: NetName=VDD_GPU/NPU Pin=U1000-N19
+Added Pin To Net: NetName=GND Pin=U1000-N28
+Added Pin To Net: NetName=GND Pin=U1000-P3
+Added Pin To Net: NetName=GND Pin=U1000-P6
+Added Pin To Net: NetName=DDRPHY_VREFOUT Pin=U1000-P8
+Added Pin To Net: NetName=USB2_AVDD_1V8 Pin=U1000-P9
+Added Pin To Net: NetName=VCC_3V3 Pin=U1000-P10
+Added Pin To Net: NetName=VDDA_0V9 Pin=U1000-P11
+Added Pin To Net: NetName=GND Pin=U1000-P12
+Added Pin To Net: NetName=VDD_LOGIC Pin=U1000-P13
+Added Pin To Net: NetName=GND Pin=U1000-P14
+Added Pin To Net: NetName=GND Pin=U1000-P15
+Added Pin To Net: NetName=VDD_LOGIC Pin=U1000-P16
+Added Pin To Net: NetName=GND Pin=U1000-P17
+Added Pin To Net: NetName=VDD_GPU/NPU Pin=U1000-P18
+Added Pin To Net: NetName=VDD_GPU/NPU Pin=U1000-P19
+Added Pin To Net: NetName=VDD_GPU/NPU Pin=U1000-P20
+Added Pin To Net: NetName=GND Pin=U1000-P21
+Added Pin To Net: NetName=USB3_AVDD_0V9 Pin=U1000-P22
+Added Pin To Net: NetName=USB3_AVDD_1V8 Pin=U1000-P23
+Added Pin To Net: NetName=USB3_HOST1_DP Pin=U1000-P24
+Added Pin To Net: NetName=USB3_HOST1_DM Pin=U1000-P25
+Added Pin To Net: NetName=GND Pin=U1000-P26
+Added Pin To Net: NetName=USB3_OTG0_DP Pin=U1000-P27
+Added Pin To Net: NetName=USB3_OTG0_DM Pin=U1000-P28
+Added Pin To Net: NetName=USB2_HOST2_DM Pin=U1000-R1
+Added Pin To Net: NetName=USB2_HOST2_DP Pin=U1000-R2
+Added Pin To Net: NetName=GND Pin=U1000-R3
+Added Pin To Net: NetName=GND Pin=U1000-R6
+Added Pin To Net: NetName=USB2_AVDD_0V9 Pin=U1000-R8
+Added Pin To Net: NetName=VCC_1V8 Pin=U1000-R9
+Added Pin To Net: NetName=GND Pin=U1000-R10
+Added Pin To Net: NetName=GND Pin=U1000-R11
+Added Pin To Net: NetName=VDD_LOGIC Pin=U1000-R12
+Added Pin To Net: NetName=VDD_GPU/NPU Pin=U1000-R13
+Added Pin To Net: NetName=GND Pin=U1000-R14
+Added Pin To Net: NetName=GND Pin=U1000-R15
+Added Pin To Net: NetName=VDD_LOGIC Pin=U1000-R16
+Added Pin To Net: NetName=GND Pin=U1000-R17
+Added Pin To Net: NetName=GND Pin=U1000-R18
+Added Pin To Net: NetName=GND Pin=U1000-R19
+Added Pin To Net: NetName=USB3_AVDD_0V9 Pin=U1000-R20
+Added Pin To Net: NetName=USB3_AVDD_0V9 Pin=U1000-R21
+Added Pin To Net: NetName=USB3_AVDD_1V8 Pin=U1000-R22
+Added Pin To Net: NetName=GND Pin=U1000-R23
+Added Pin To Net: NetName=GND Pin=U1000-R26
+Added Pin To Net: NetName=USB3_OTG0_SSRXN Pin=U1000-R27
+Added Pin To Net: NetName=USB3_OTG0_SSRXP Pin=U1000-R28
+Added Pin To Net: NetName=USB2_HOST3_DM Pin=U1000-T1
+Added Pin To Net: NetName=USB2_HOST3_DP Pin=U1000-T2
+Added Pin To Net: NetName=GND Pin=U1000-T10
+Added Pin To Net: NetName=GND Pin=U1000-T11
+Added Pin To Net: NetName=VDD_LOGIC Pin=U1000-T12
+Added Pin To Net: NetName=VDD_GPU/NPU Pin=U1000-T13
+Added Pin To Net: NetName=GND Pin=U1000-T14
+Added Pin To Net: NetName=GND Pin=U1000-T15
+Added Pin To Net: NetName=VDD_LOGIC Pin=U1000-T16
+Added Pin To Net: NetName=GND Pin=U1000-T17
+Added Pin To Net: NetName=GND Pin=U1000-T18
+Added Pin To Net: NetName=GND Pin=U1000-T19
+Added Pin To Net: NetName=USB3_OTG0_SSTXN Pin=U1000-T27
+Added Pin To Net: NetName=USB3_OTG0_SSTXP Pin=U1000-T28
+Added Pin To Net: NetName=GND Pin=U1000-U1
+Added Pin To Net: NetName=GPIO4_C1_d Pin=U1000-U2
+Added Pin To Net: NetName=GMAC1_MDIO_M1 Pin=U1000-U4
+Added Pin To Net: NetName=GMAC1_MDC_M1 Pin=U1000-U5
+Added Pin To Net: NetName=GND Pin=U1000-U6
+Added Pin To Net: NetName=GND Pin=U1000-U7
+Added Pin To Net: NetName=GND Pin=U1000-U8
+Added Pin To Net: NetName=VCC_1V8 Pin=U1000-U9
+Added Pin To Net: NetName=GND Pin=U1000-U10
+Added Pin To Net: NetName=VDD_GPU/NPU Pin=U1000-U11
+Added Pin To Net: NetName=VDD_GPU/NPU Pin=U1000-U12
+Added Pin To Net: NetName=VDD_GPU/NPU Pin=U1000-U13
+Added Pin To Net: NetName=GND Pin=U1000-U14
+Added Pin To Net: NetName=GND Pin=U1000-U15
+Added Pin To Net: NetName=GND Pin=U1000-U16
+Added Pin To Net: NetName=GND Pin=U1000-U17
+Added Pin To Net: NetName=GND Pin=U1000-U18
+Added Pin To Net: NetName=PCIE30_RESREF Pin=U1000-U19
+Added Pin To Net: NetName=PCIE30_AVDD_0V9 Pin=U1000-U20
+Added Pin To Net: NetName=PCIE30_AVDD_0V9 Pin=U1000-U21
+Added Pin To Net: NetName=PCIE30_AVDD_1V8 Pin=U1000-U22
+Added Pin To Net: NetName=GND Pin=U1000-U23
+Added Pin To Net: NetName=GND Pin=U1000-U26
+Added Pin To Net: NetName=SATA1_RXN Pin=U1000-U27
+Added Pin To Net: NetName=SATA1_RXP Pin=U1000-U28
+Added Pin To Net: NetName=GPIO4_B3_d Pin=U1000-V1
+Added Pin To Net: NetName=GMAC1_RXDV_CRS_M1 Pin=U1000-V2
+Added Pin To Net: NetName=GND Pin=U1000-V3
+Added Pin To Net: NetName=GMAC1_RXD1_M1 Pin=U1000-V7
+Added Pin To Net: NetName=GND Pin=U1000-V8
+Added Pin To Net: NetName=GND Pin=U1000-V9
+Added Pin To Net: NetName=VCC_3V3 Pin=U1000-V10
+Added Pin To Net: NetName=VCC_3V3 Pin=U1000-V11
+Added Pin To Net: NetName=VCC_3V3 Pin=U1000-V12
+Added Pin To Net: NetName=GND Pin=U1000-V13
+Added Pin To Net: NetName=GND Pin=U1000-V14
+Added Pin To Net: NetName=GND Pin=U1000-V15
+Added Pin To Net: NetName=GND Pin=U1000-V16
+Added Pin To Net: NetName=VDDA_0V9 Pin=U1000-V17
+Added Pin To Net: NetName=VDDA_0V9 Pin=U1000-V18
+Added Pin To Net: NetName=VDDA_0V9 Pin=U1000-V19
+Added Pin To Net: NetName=GND Pin=U1000-V20
+Added Pin To Net: NetName=VDDA_0V9 Pin=U1000-V21
+Added Pin To Net: NetName=GND Pin=U1000-V22
+Added Pin To Net: NetName=GND Pin=U1000-V23
+Added Pin To Net: NetName=GND Pin=U1000-V26
+Added Pin To Net: NetName=SATA1_TXN Pin=U1000-V27
+Added Pin To Net: NetName=SATA1_TXP Pin=U1000-V28
+Added Pin To Net: NetName=GMAC1_RXD0_M1 Pin=U1000-W1
+Added Pin To Net: NetName=GPIO4_A6_d Pin=U1000-W2
+Added Pin To Net: NetName=GND Pin=U1000-W10
+Added Pin To Net: NetName=GND Pin=U1000-W11
+Added Pin To Net: NetName=GND Pin=U1000-W12
+Added Pin To Net: NetName=GND Pin=U1000-W13
+Added Pin To Net: NetName=GND Pin=U1000-W14
+Added Pin To Net: NetName=GND Pin=U1000-W15
+Added Pin To Net: NetName=VDDA_0V9 Pin=U1000-W16
+Added Pin To Net: NetName=GND Pin=U1000-W17
+Added Pin To Net: NetName=VCCA_1V8 Pin=U1000-W18
+Added Pin To Net: NetName=VCC3V3_PMUIO Pin=U1000-W19
+Added Pin To Net: NetName=SATA2_TXP Pin=U1000-W27
+Added Pin To Net: NetName=SATA2_TXN Pin=U1000-W28
+Added Pin To Net: NetName=GPIO4_A5_d Pin=U1000-Y1
+Added Pin To Net: NetName=GPIO4_A4_d Pin=U1000-Y2
+Added Pin To Net: NetName=GMAC1_RXCLK_M1 Pin=U1000-Y3
+Added Pin To Net: NetName=GMAC1_RXD3_M1 Pin=U1000-Y4
+Added Pin To Net: NetName=GPIO3_D7_d Pin=U1000-Y5
+Added Pin To Net: NetName=GPIO3_D6_d Pin=U1000-Y6
+Added Pin To Net: NetName=GND Pin=U1000-Y8
+Added Pin To Net: NetName=GND Pin=U1000-Y9
+Added Pin To Net: NetName=GND Pin=U1000-Y11
+Added Pin To Net: NetName=GND Pin=U1000-Y12
+Added Pin To Net: NetName=GND Pin=U1000-Y14
+Added Pin To Net: NetName=GND Pin=U1000-Y15
+Added Pin To Net: NetName=VCCA_1V8 Pin=U1000-Y17
+Added Pin To Net: NetName=GND Pin=U1000-Y18
+Added Pin To Net: NetName=VCC3V3_PMUIO Pin=U1000-Y20
+Added Pin To Net: NetName=VCCA_1V8 Pin=U1000-Y21
+Added Pin To Net: NetName=PCIE30X1_CLKREQn_M0 Pin=U1000-Y22
+Added Pin To Net: NetName=GND Pin=U1000-Y23
+Added Pin To Net: NetName=GND Pin=U1000-Y24
+Added Pin To Net: NetName=PCIE30_REFCLKP_IN Pin=U1000-Y25
+Added Pin To Net: NetName=GND Pin=U1000-Y26
+Added Pin To Net: NetName=SATA2_RXP Pin=U1000-Y27
+Added Pin To Net: NetName=SATA2_RXN Pin=U1000-Y28
+Added Pin To Net: NetName=GND Pin=U1201-1
+Added Pin To Net: NetName=RESETn Pin=U1201-2
+Added Pin To Net: NetName=VCC3V3_PMUIO Pin=U1201-3
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-A1
+Added Pin To Net: NetName=GND Pin=U3300-A2
+Added Pin To Net: NetName=DDR4_DQU0_A Pin=U3300-A3
+Added Pin To Net: NetName=DDR4_DQSU_N_A Pin=U3300-A7
+Added Pin To Net: NetName=GND Pin=U3300-A8
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-A9
+Added Pin To Net: NetName=VCC25_DDR Pin=U3300-B1
+Added Pin To Net: NetName=GND Pin=U3300-B2
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-B3
+Added Pin To Net: NetName=DDR4_DQSU_P_A Pin=U3300-B7
+Added Pin To Net: NetName=DDR4_DQU1_A Pin=U3300-B8
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-B9
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-C1
+Added Pin To Net: NetName=DDR4_DQU4_A Pin=U3300-C2
+Added Pin To Net: NetName=DDR4_DQU2_A Pin=U3300-C3
+Added Pin To Net: NetName=DDR4_DQU3_A Pin=U3300-C7
+Added Pin To Net: NetName=DDR4_DQU5_A Pin=U3300-C8
+Added Pin To Net: NetName=GND Pin=U3300-C9
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-D1
+Added Pin To Net: NetName=GND Pin=U3300-D2
+Added Pin To Net: NetName=DDR4_DQU6_A Pin=U3300-D3
+Added Pin To Net: NetName=DDR4_DQU7_A Pin=U3300-D7
+Added Pin To Net: NetName=GND Pin=U3300-D8
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-D9
+Added Pin To Net: NetName=GND Pin=U3300-E1
+Added Pin To Net: NetName=DDR4_DMU_A Pin=U3300-E2
+Added Pin To Net: NetName=GND Pin=U3300-E3
+Added Pin To Net: NetName=DDR4_DML_A Pin=U3300-E7
+Added Pin To Net: NetName=GND Pin=U3300-E8
+Added Pin To Net: NetName=NetR3317_1 Pin=U3300-E9
+Added Pin To Net: NetName=GND Pin=U3300-F1
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-F2
+Added Pin To Net: NetName=DDR4_DQSL_N_A Pin=U3300-F3
+Added Pin To Net: NetName=DDR4_DQL1_A Pin=U3300-F7
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-F8
+Added Pin To Net: NetName=NetR3313_1 Pin=U3300-F9
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-G1
+Added Pin To Net: NetName=DDR4_DQL0_A Pin=U3300-G2
+Added Pin To Net: NetName=DDR4_DQSL_P_A Pin=U3300-G3
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-G7
+Added Pin To Net: NetName=GND Pin=U3300-G8
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-G9
+Added Pin To Net: NetName=GND Pin=U3300-H1
+Added Pin To Net: NetName=DDR4_DQL4_A Pin=U3300-H2
+Added Pin To Net: NetName=DDR4_DQL2_A Pin=U3300-H3
+Added Pin To Net: NetName=DDR4_DQL3_A Pin=U3300-H7
+Added Pin To Net: NetName=DDR4_DQL5_A Pin=U3300-H8
+Added Pin To Net: NetName=GND Pin=U3300-H9
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-J1
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-J2
+Added Pin To Net: NetName=DDR4_DQL6_A Pin=U3300-J3
+Added Pin To Net: NetName=DDR4_DQL7_A Pin=U3300-J7
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-J8
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-J9
+Added Pin To Net: NetName=GND Pin=U3300-K1
+Added Pin To Net: NetName=DDR4_CKE_A Pin=U3300-K2
+Added Pin To Net: NetName=DDR4_ODT0_A Pin=U3300-K3
+Added Pin To Net: NetName=DDR4_CLKP_A Pin=U3300-K7
+Added Pin To Net: NetName=DDR4_CLKN_A Pin=U3300-K8
+Added Pin To Net: NetName=GND Pin=U3300-K9
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-L1
+Added Pin To Net: NetName=DDR4_A14_WEn Pin=U3300-L2
+Added Pin To Net: NetName=DDR4_ACTn Pin=U3300-L3
+Added Pin To Net: NetName=DDR4_CS0n_A Pin=U3300-L7
+Added Pin To Net: NetName=DDR4_A16_RASn Pin=U3300-L8
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-L9
+Added Pin To Net: NetName=VREF_DDR4_CA Pin=U3300-M1
+Added Pin To Net: NetName=DDR4_BG0 Pin=U3300-M2
+Added Pin To Net: NetName=DDR4_A10 Pin=U3300-M3
+Added Pin To Net: NetName=DDR4_A12 Pin=U3300-M7
+Added Pin To Net: NetName=DDR4_A15_CASn Pin=U3300-M8
+Added Pin To Net: NetName=DDR4_BG1/VSS Pin=U3300-M9
+Added Pin To Net: NetName=GND Pin=U3300-N1
+Added Pin To Net: NetName=DDR4_BA0 Pin=U3300-N2
+Added Pin To Net: NetName=DDR4_A4 Pin=U3300-N3
+Added Pin To Net: NetName=DDR4_A3 Pin=U3300-N7
+Added Pin To Net: NetName=DDR4_BA1 Pin=U3300-N8
+Added Pin To Net: NetName=GND Pin=U3300-N9
+Added Pin To Net: NetName=DDR4_RESETn Pin=U3300-P1
+Added Pin To Net: NetName=DDR4_A6 Pin=U3300-P2
+Added Pin To Net: NetName=DDR4_A0 Pin=U3300-P3
+Added Pin To Net: NetName=DDR4_A1 Pin=U3300-P7
+Added Pin To Net: NetName=DDR4_A5 Pin=U3300-P8
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-R1
+Added Pin To Net: NetName=DDR4_A8 Pin=U3300-R2
+Added Pin To Net: NetName=DDR4_A2 Pin=U3300-R3
+Added Pin To Net: NetName=DDR4_A9 Pin=U3300-R7
+Added Pin To Net: NetName=DDR4_A7 Pin=U3300-R8
+Added Pin To Net: NetName=VCC25_DDR Pin=U3300-R9
+Added Pin To Net: NetName=GND Pin=U3300-T1
+Added Pin To Net: NetName=DDR4_A11 Pin=U3300-T2
+Added Pin To Net: NetName=GND Pin=U3300-T3
+Added Pin To Net: NetName=NetR3315_1 Pin=U3300-T7
+Added Pin To Net: NetName=DDR4_A13 Pin=U3300-T8
+Added Pin To Net: NetName=VCC_DDR Pin=U3300-T9
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-A1
+Added Pin To Net: NetName=GND Pin=U3301-A2
+Added Pin To Net: NetName=DDR4_DQU0_B Pin=U3301-A3
+Added Pin To Net: NetName=DDR4_DQSU_N_B Pin=U3301-A7
+Added Pin To Net: NetName=GND Pin=U3301-A8
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-A9
+Added Pin To Net: NetName=VCC25_DDR Pin=U3301-B1
+Added Pin To Net: NetName=GND Pin=U3301-B2
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-B3
+Added Pin To Net: NetName=DDR4_DQSU_P_B Pin=U3301-B7
+Added Pin To Net: NetName=DDR4_DQU1_B Pin=U3301-B8
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-B9
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-C1
+Added Pin To Net: NetName=DDR4_DQU4_B Pin=U3301-C2
+Added Pin To Net: NetName=DDR4_DQU2_B Pin=U3301-C3
+Added Pin To Net: NetName=DDR4_DQU3_B Pin=U3301-C7
+Added Pin To Net: NetName=DDR4_DQU5_B Pin=U3301-C8
+Added Pin To Net: NetName=GND Pin=U3301-C9
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-D1
+Added Pin To Net: NetName=GND Pin=U3301-D2
+Added Pin To Net: NetName=DDR4_DQU6_B Pin=U3301-D3
+Added Pin To Net: NetName=DDR4_DQU7_B Pin=U3301-D7
+Added Pin To Net: NetName=GND Pin=U3301-D8
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-D9
+Added Pin To Net: NetName=GND Pin=U3301-E1
+Added Pin To Net: NetName=DDR4_DMU_B Pin=U3301-E2
+Added Pin To Net: NetName=GND Pin=U3301-E3
+Added Pin To Net: NetName=DDR4_DML_B Pin=U3301-E7
+Added Pin To Net: NetName=GND Pin=U3301-E8
+Added Pin To Net: NetName=NetR3316_1 Pin=U3301-E9
+Added Pin To Net: NetName=GND Pin=U3301-F1
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-F2
+Added Pin To Net: NetName=DDR4_DQSL_N_B Pin=U3301-F3
+Added Pin To Net: NetName=DDR4_DQL1_B Pin=U3301-F7
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-F8
+Added Pin To Net: NetName=NetR3312_1 Pin=U3301-F9
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-G1
+Added Pin To Net: NetName=DDR4_DQL0_B Pin=U3301-G2
+Added Pin To Net: NetName=DDR4_DQSL_P_B Pin=U3301-G3
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-G7
+Added Pin To Net: NetName=GND Pin=U3301-G8
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-G9
+Added Pin To Net: NetName=GND Pin=U3301-H1
+Added Pin To Net: NetName=DDR4_DQL4_B Pin=U3301-H2
+Added Pin To Net: NetName=DDR4_DQL2_B Pin=U3301-H3
+Added Pin To Net: NetName=DDR4_DQL3_B Pin=U3301-H7
+Added Pin To Net: NetName=DDR4_DQL5_B Pin=U3301-H8
+Added Pin To Net: NetName=GND Pin=U3301-H9
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-J1
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-J2
+Added Pin To Net: NetName=DDR4_DQL6_B Pin=U3301-J3
+Added Pin To Net: NetName=DDR4_DQL7_B Pin=U3301-J7
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-J8
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-J9
+Added Pin To Net: NetName=GND Pin=U3301-K1
+Added Pin To Net: NetName=DDR4_CKE_B Pin=U3301-K2
+Added Pin To Net: NetName=DDR4_ODT0_B Pin=U3301-K3
+Added Pin To Net: NetName=DDR4_CLKP_B Pin=U3301-K7
+Added Pin To Net: NetName=DDR4_CLKN_B Pin=U3301-K8
+Added Pin To Net: NetName=GND Pin=U3301-K9
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-L1
+Added Pin To Net: NetName=DDR4_A14_WEn Pin=U3301-L2
+Added Pin To Net: NetName=DDR4_ACTn Pin=U3301-L3
+Added Pin To Net: NetName=DDR4_CS0n_B Pin=U3301-L7
+Added Pin To Net: NetName=DDR4_A16_RASn Pin=U3301-L8
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-L9
+Added Pin To Net: NetName=VREF_DDR4_CA Pin=U3301-M1
+Added Pin To Net: NetName=DDR4_BG0 Pin=U3301-M2
+Added Pin To Net: NetName=DDR4_A10 Pin=U3301-M3
+Added Pin To Net: NetName=DDR4_A12 Pin=U3301-M7
+Added Pin To Net: NetName=DDR4_A15_CASn Pin=U3301-M8
+Added Pin To Net: NetName=DDR4_BG1/VSS Pin=U3301-M9
+Added Pin To Net: NetName=GND Pin=U3301-N1
+Added Pin To Net: NetName=DDR4_BA0 Pin=U3301-N2
+Added Pin To Net: NetName=DDR4_A4 Pin=U3301-N3
+Added Pin To Net: NetName=DDR4_A3 Pin=U3301-N7
+Added Pin To Net: NetName=DDR4_BA1 Pin=U3301-N8
+Added Pin To Net: NetName=GND Pin=U3301-N9
+Added Pin To Net: NetName=DDR4_RESETn Pin=U3301-P1
+Added Pin To Net: NetName=DDR4_A6 Pin=U3301-P2
+Added Pin To Net: NetName=DDR4_A0 Pin=U3301-P3
+Added Pin To Net: NetName=DDR4_A1 Pin=U3301-P7
+Added Pin To Net: NetName=DDR4_A5 Pin=U3301-P8
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-R1
+Added Pin To Net: NetName=DDR4_A8 Pin=U3301-R2
+Added Pin To Net: NetName=DDR4_A2 Pin=U3301-R3
+Added Pin To Net: NetName=DDR4_A9 Pin=U3301-R7
+Added Pin To Net: NetName=DDR4_A7 Pin=U3301-R8
+Added Pin To Net: NetName=VCC25_DDR Pin=U3301-R9
+Added Pin To Net: NetName=GND Pin=U3301-T1
+Added Pin To Net: NetName=DDR4_A11 Pin=U3301-T2
+Added Pin To Net: NetName=GND Pin=U3301-T3
+Added Pin To Net: NetName=NetR3314_1 Pin=U3301-T7
+Added Pin To Net: NetName=DDR4_A13 Pin=U3301-T8
+Added Pin To Net: NetName=VCC_DDR Pin=U3301-T9
+Added Pin To Net: NetName=VCC3V3_SYS Pin=U3302-1
+Added Pin To Net: NetName=GND Pin=U3302-2
+Added Pin To Net: NetName=NetC3329_1 Pin=U3302-3
+Added Pin To Net: NetName=NetC3330_1 Pin=U3302-4
+Added Pin To Net: NetName=VCC25_DDR Pin=U3302-5
+Added Pin To Net: NetName=eMMC_D4 Pin=U4000-A2
+Added Pin To Net: NetName=eMMC_D0 Pin=U4000-A3
+Added Pin To Net: NetName=eMMC_D1 Pin=U4000-A4
+Added Pin To Net: NetName=eMMC_D2 Pin=U4000-A5
+Added Pin To Net: NetName=GND Pin=U4000-A6
+Added Pin To Net: NetName=eMMC_D7 Pin=U4000-A8
+Added Pin To Net: NetName=eMMC_D3 Pin=U4000-B2
+Added Pin To Net: NetName=eMMC_D4 Pin=U4000-B3
+Added Pin To Net: NetName=eMMC_D5 Pin=U4000-B4
+Added Pin To Net: NetName=eMMC_D6 Pin=U4000-B5
+Added Pin To Net: NetName=eMMC_D7 Pin=U4000-B6
+Added Pin To Net: NetName=eMMC_D7 Pin=U4000-B7
+Added Pin To Net: NetName=N16892171 Pin=U4000-C1
+Added Pin To Net: NetName=N16892171 Pin=U4000-C2
+Added Pin To Net: NetName=eMMC_D5 Pin=U4000-C3
+Added Pin To Net: NetName=GND Pin=U4000-C4
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U4000-C6
+Added Pin To Net: NetName=eMMC_D5 Pin=U4000-D1
+Added Pin To Net: NetName=eMMC_D5 Pin=U4000-D2
+Added Pin To Net: NetName=VCC_3V3 Pin=U4000-E6
+Added Pin To Net: NetName=GND Pin=U4000-E7
+Added Pin To Net: NetName=VCC_3V3 Pin=U4000-F5
+Added Pin To Net: NetName=GND Pin=U4000-G5
+Added Pin To Net: NetName=eMMC_DATA_STROBE Pin=U4000-H5
+Added Pin To Net: NetName=GND Pin=U4000-H10
+Added Pin To Net: NetName=GND Pin=U4000-J5
+Added Pin To Net: NetName=VCC_3V3 Pin=U4000-J10
+Added Pin To Net: NetName=eMMC_RSTn Pin=U4000-K5
+Added Pin To Net: NetName=GND Pin=U4000-K8
+Added Pin To Net: NetName=VCC_3V3 Pin=U4000-K9
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U4000-M4
+Added Pin To Net: NetName=eMMC_CMD Pin=U4000-M5
+Added Pin To Net: NetName=eMMC_CLKOUT Pin=U4000-M6
+Added Pin To Net: NetName=GND Pin=U4000-N1
+Added Pin To Net: NetName=GND Pin=U4000-N2
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U4000-N4
+Added Pin To Net: NetName=GND Pin=U4000-N5
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U4000-P3
+Added Pin To Net: NetName=GND Pin=U4000-P4
+Added Pin To Net: NetName=VCCIO_FLASH Pin=U4000-P5
+Added Pin To Net: NetName=GND Pin=U4000-P6
+Added Pin To Net: NetName=NetC1201_1 Pin=Y1200-1
+Added Pin To Net: NetName=GND Pin=Y1200-2
+Added Pin To Net: NetName=XIN24M Pin=Y1200-3
+Added Pin To Net: NetName=GND Pin=Y1200-4
+Added Member To Class: ClassName=12.RK3568_OSCPLLPMUIO Member=Component D1201 ESD5451N
+Added Member To Class: ClassName=15.RK3568_SARADCGPIO Member=Component D1500 ESD5451N
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component H9900 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component H9901 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component H9902 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component H9903 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component H9904 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component H9905 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component H9906 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component H9907 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component J9900 散热器
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component M9900 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component M9901 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component M9902 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component M9903 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component M9904 TP1
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component M9905 TP1
+Added Member To Class: ClassName=12.RK3568_OSCPLLPMUIO Member=Component SW1201 TS-1125HS
+Added Member To Class: ClassName=15.RK3568_SARADCGPIO Member=Component SW1500 TS-1125HS
+Added Member To Class: ClassName=12.RK3568_OSCPLLPMUIO Member=Component TP1201 TP_0.7
+Added Member To Class: ClassName=13.RK3568_FlashSD Controller Member=Component TP1301 TP_0.7
+Added Member To Class: ClassName=13.RK3568_FlashSD Controller Member=Component TP1302 TP_0.7
+Added Member To Class: ClassName=13.RK3568_FlashSD Controller Member=Component TP1303 TP_0.7
+Added Member To Class: ClassName=13.RK3568_FlashSD Controller Member=Component TP1304 TP_0.7
+Added Member To Class: ClassName=13.RK3568_FlashSD Controller Member=Component TP1305 TP_0.7
+Added Member To Class: ClassName=13.RK3568_FlashSD Controller Member=Component TP1306 TP_0.7
+Added Member To Class: ClassName=16.RK3568_VI Interface Member=Component TP1601 TP_0.7
+Added Member To Class: ClassName=16.RK3568_VI Interface Member=Component TP1602 TP_0.7
+Added Member To Class: ClassName=16.RK3568_VI Interface Member=Component TP1603 TP_0.7
+Added Member To Class: ClassName=10.RK3568_PowerGND Member=Component U1000 RK3568
+Added Member To Class: ClassName=12.RK3568_OSCPLLPMUIO Member=Component U1201 TCS9819
+Added Member To Class: ClassName=33.DRAM-DDR4_2x16bit_96P Member=Component U3300 DDR4_16bit_SDP
+Added Member To Class: ClassName=33.DRAM-DDR4_2x16bit_96P Member=Component U3301 DDR4_16bit_SDP
+Added Member To Class: ClassName=33.DRAM-DDR4_2x16bit_96P Member=Component U3302 PT5108E23E-25
+Added Member To Class: ClassName=40.Flash-eMMC Flash Member=Component U4000 EMMC_B153_2L
+Added Member To Class: ClassName=12.RK3568_OSCPLLPMUIO Member=Component Y1200 24MHz
